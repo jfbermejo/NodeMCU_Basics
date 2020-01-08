@@ -3,8 +3,8 @@
 // ==========================================================
 //     Credenciales para la conexión por WiFi
 // ==========================================================
-	const char* WIFI_SSID = "Computaex-Invitados";
-	const char* WIFI_PASS = "LUS1T4N14";
+	const char* WIFI_SSID = "***";
+	const char* WIFI_PASS = "***";
 // ----------------------------------------------------------
 
 // Define la constante para el segundo LED integrado conectado a GPIO16 (D0)
